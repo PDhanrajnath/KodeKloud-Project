@@ -1,0 +1,5 @@
+[api]
+token = a6a8b440-cbd0-4acf-b809-3aa26c8d4c9d
+
+[record]
+command = /bin/bash -l
